@@ -15,7 +15,7 @@ def main():
 
     # Usage...
     if (argc != 3):
-        print("    Usage: # python xy2id.py <Polygon+ID csv> <points csv>")
+        print("    Usage: # python xy2id.py <Polygon+ID.csv> <points.csv>")
         print()
         quit()
 
