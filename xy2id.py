@@ -3,9 +3,9 @@ import re
 import csv
 from sympy.geometry import Point, Polygon
 
-PID = []
-PDummy = []
-PPoly = []
+PID = []        # Product ID
+PDummy = []     # Dummy info for the product
+PPoly = []      # Polygon data for the product
 
 
 
